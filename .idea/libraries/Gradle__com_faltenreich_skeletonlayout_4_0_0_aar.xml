@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.faltenreich:skeletonlayout:4.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TheShopApp/.gradle/caches/transforms-3/4103bfb8010dc62a9d7b228684a44ea7/transformed/skeletonlayout-4.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheShopApp/.gradle/caches/transforms-3/4103bfb8010dc62a9d7b228684a44ea7/transformed/skeletonlayout-4.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheShopApp/.gradle/caches/transforms-3/4103bfb8010dc62a9d7b228684a44ea7/transformed/skeletonlayout-4.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TheShopApp/.gradle/caches/modules-2/files-2.1/com.faltenreich/skeletonlayout/4.0.0/efd6ebed5114c95a3cd40a5905138b834b6b4efe/skeletonlayout-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheShopApp/.gradle/caches/modules-2/files-2.1/com.faltenreich/skeletonlayout/4.0.0/775ecd37ed88ce14a8cbd4b383e22bbbbeb2e7a8/skeletonlayout-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
